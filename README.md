@@ -1,5 +1,5 @@
 # PDF_Information_Extraction
-Structure Recognition and Information Extraction From Scholarly Articles(PDF)# Hoax_News_Detection-A_Transfer_Learning_Approach
+Structure Recognition and Information Extraction From Scholarly Articles(PDF)
 
 ## Table of contents
 * [General info](#general-info)
@@ -11,11 +11,11 @@ Structure Recognition and Information Extraction From Scholarly Articles(PDF)# H
 A text classification algorithm that follows a rule based sieve framework to auto- matically classify PDF text snippets into Title, Abstract, Bodytext, Semistructure, and Metadata categories.
 
 ## Technologies
-* tkinter
-* pdfminer
+* Tkinter
+* Pdfminer
 
 ## Prerequests
-* python 3.6+
+* Python 3.6+
 
 ## Setup
 Using pip: 
